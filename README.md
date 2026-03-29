@@ -1,18 +1,58 @@
-Hi Everyone!
-Create a visually aesthetic, minimal, and modern GitHub profile README.<br><br>My details:<br><br>* Name: Raman (you can also include my nickname "Taran" creatively)<br>* Role: Computer Science student specializing in Artificial Intelligence & Machine Learning<br>* Currently learning: Machine Learning, Python, Web Development<br>* Current project: Spam SMS Detection (Machine Learning internship)<br>* Interests: AI/ML, building real-world projects, clean and aesthetic UI design<br><br>Style & vibe:<br><br>* Soft aesthetic (pastel + navy feel)<br>* Minimal and elegant design<br>* Use subtle, aesthetic emojis (not too many)<br>* Tone should be warm, calm, and slightly creative but still professional<br>* Inspired by clean developer profiles (Joanne-style)<br><br>Sections to include:<br><br>1. Intro section with:<br><br>   * A soft aesthetic greeting<br>   * Animated typing intro (use a typing SVG)<br>   * A short tagline<br><br>2. About Me:<br><br>   * Simple, human, and engaging<br>   * Should reflect calm, focused, and growth-oriented personality<br><br>3. Tech Stack:<br><br>   * Use clean badge-style icons<br>   * Include Python, Java, C++, HTML, CSS, JavaScript, Git, GitHub, Machine Learning<br><br>4. Currently Learning / Goals:<br><br>   * ML depth, real-world AI, improving frontend aesthetics<br><br>5. Connect with Me:<br><br>   * Email: [sardarni.ramandeep@gmail.com](mailto:sardarni.ramandeep@gmail.com)<br>   * LinkedIn: https://www.linkedin.com/in/ramandeep-kaur-75a0ba36a/<br><br>6. GitHub Stats:<br><br>   * Include GitHub stats card<br>   * Include top languages card<br><br>7. Ending section:<br><br>   * Add a short aesthetic personality line about consistency, quiet growth, or building meaningful things<br><br>Design rules:<br><br>* Clean spacing<br>* Not cluttered<br>* Modern and readable<br>* Keep it visually balanced<br><br>Output format:<br><br>* Only markdown<br>* No explanations<br>* Ready to copy-paste into GitHub<br>
+# Hi, I'm Raman ✨  
+### (Taran)
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&pause=1000&color=7F8CAA&width=435&lines=AI%2FML+Student;Building+real-world+projects;Loving+clean+%26+aesthetic+designs" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramandeep-kaur-75a0ba36a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sardarni.ramandeep@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Raman1606&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Raman1606&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raman1606&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌿 About Me  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I’m a calm and consistent learner who enjoys building meaningful things.  
+Currently exploring **Artificial Intelligence & Machine Learning**,  
+while also focusing on creating clean and aesthetic web experiences.  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🌱 Currently Learning  
+
+- Machine Learning (deep understanding)  
+- Real-world AI applications  
+- Frontend design & UI aesthetics  
+
+---
+
+## 💻 Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-0A192F?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-0A192F?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0A192F?style=flat&logo=css3)
+![C++](https://img.shields.io/badge/C++-0A192F?style=flat&logo=cplusplus)
+![Git](https://img.shields.io/badge/Git-0A192F?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=flat&logo=github)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A192F?style=flat)
+
+---
+
+## 🌐 Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=flat&logo=linkedin)](https://www.linkedin.com/in/ramandeep-kaur-75a0ba36a/)  
+[![Email](https://img.shields.io/badge/Email-0A192F?style=flat&logo=gmail)](mailto:sardarni.ramandeep@gmail.com)
+
+---
+
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=Raman1606&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raman1606&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌙  
+
+Building quietly.  
+Growing consistently.  
+One meaningful project at a time. 💙  
